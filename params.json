@@ -1,6 +1,6 @@
 {
-  "name": "Itmo-students-misc",
-  "tagline": "Different materials for students of ITMO University",
-  "body": "### Различные материалы для студентов Университета ИТМО\r\nЗдесь вы можете найти разное, полезное как для бакалавров и магистрантов кафедры Информатики и прикладной математики, так и для аспирантов.\r\n",
+  "name": "Репозиторий кафедры Информатики и прикладной математики (Университет ИТМО, Санкт-Петербург)",
+  "tagline": "",
+  "body": "### Различные материалы для студентов Университета ИТМО\r\nЗдесь вы можете найти разное, полезное как для бакалавров и магистрантов кафедры Информатики и прикладной математики, так и для аспирантов.\r\n\r\n* [Текущие проекты](https://github.com/iradche/itmo-students-misc/projects)\r\n* [Открытые задачи](https://github.com/iradche/itmo-students-misc/issues)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }

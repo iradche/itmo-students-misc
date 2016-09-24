@@ -2,7 +2,7 @@
 
 * [Data Science and Engineering] (http://link.springer.com/journal/41019)
 * [EPJ Data Science] (http://epjdatascience.springeropen.com/)
-* [nternational Journal of Educational Technology in Higher Education] (http://educationaltechnologyjournal.springeropen.com/)
+* [International Journal of Educational Technology in Higher Education] (http://educationaltechnologyjournal.springeropen.com/)
 * [International Journal of STEM Education] (http://stemeducationjournal.springeropen.com/)
 * [Journal of Big Data] (http://journalofbigdata.springeropen.com/)
 * [Journal of Analytical Science and Technology] (http://jast-journal.springeropen.com/)

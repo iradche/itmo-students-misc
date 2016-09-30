@@ -8,3 +8,4 @@ Different materials for students of ITMO University
 * [pub](https://github.com/iradche/itmo-students-misc/tree/master/pub) Materials for the publication
 * [useful](https://github.com/iradche/itmo-students-misc/tree/master/useful) Useful links, etc
 * [PITCHME.md](https://github.com/iradche/itmo-students-misc/blob/master/PITCHME.md) Presentation
+* [Issues](https://github.com/iradche/itmo-students-misc/issues) Topics for research

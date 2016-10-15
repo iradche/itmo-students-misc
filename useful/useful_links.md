@@ -1,6 +1,12 @@
 * Top Open-Source Static Site Generators: https://www.staticgen.com/
 * How to begin a text: https://micaelwidell.com/how-to-begin-a-text/
 
+# GitHub
+
+* Git Cheat Sheet: https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf
+* Git Extended Resources: https://services.github.com/classnotes/
+
+
 # Scala
 
 * Functional Programming Principles in Scala: https://www.coursera.org/learn/progfun1/
